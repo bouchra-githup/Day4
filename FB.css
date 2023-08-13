@@ -1,0 +1,48 @@
+body{
+    background: rgb(228, 234, 242);
+    margin: 15% 15%;
+}
+#email{
+    font-size: larger;
+    width: 400px;
+    border : 2px solid black;
+    border-radius:8px;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+#bu{
+    font-size: larger;
+    width: 400px;
+    border : 2px solid black;
+    border-radius:8px;
+    text-align: center;
+    background: rgb(24, 119, 242);
+}
+#NA{
+    font-size: larger;
+    width: 400px;
+    border : 2px solid black;
+    border-radius:8px;
+    text-align: center;
+    background: rgb(24, 242, 158);
+}
+
+.forml{
+    padding: 10px ;
+    display: inline-block;
+    background-color: white;
+    margin-left: 100px;  
+    height: 5%;     
+}
+.logo{
+    display: inline-block;
+    width: 380px;
+    text-align: left;
+    vertical-align: 300%;
+}
+p{
+    text-align: center;
+}
+
+   
